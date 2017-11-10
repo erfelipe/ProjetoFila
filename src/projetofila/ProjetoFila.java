@@ -34,6 +34,7 @@ public class ProjetoFila {
         System.out.println(fila);
         fila.poll();
         System.out.println(fila);
+        
     }
     
 }
